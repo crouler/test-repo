@@ -1,2 +1,2 @@
 # test-repo
-test&amp;studing
+test&studing
